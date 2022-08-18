@@ -53,6 +53,7 @@ assert_eq!(string.chars().count(), 18);
 ```
 
 **Simple String generation with constants**
+
 its possible to generate a string using the simplification functions for different types
 
 ```rust
