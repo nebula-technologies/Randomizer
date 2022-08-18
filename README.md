@@ -1,4 +1,7 @@
 # Randomizer
+[![pipeline status](https://gitlab.nebula.technology/libraries/rust/randomizer/badges/main/pipeline.svg)](https://gitlab.nebula.technology/libraries/rust/randomizer/-/commits/main)
+[![coverage report](https://gitlab.nebula.technology/libraries/rust/randomizer/badges/main/coverage.svg)](https://gitlab.nebula.technology/libraries/rust/randomizer/-/commits/main)
+[![Latest Release](https://gitlab.nebula.technology/libraries/rust/randomizer/-/badges/release.svg)](https://gitlab.nebula.technology/libraries/rust/randomizer/-/releases)
 ---
 Randomizer provides a simple implementation of creating random information, eg random string, and bytes.
 Thre are many randomization libraries for rust. They are often either complex to use and safe or
